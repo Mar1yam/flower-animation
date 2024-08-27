@@ -27,7 +27,6 @@ Inspired by a TikTok trend, this animation showcases the beauty of CSS and JavaS
 
 3. **Start the server with nodemon:**
    ```bash
-   Copy code
    nodemon server.js
 
 4. **Open the animation:** Go to [http://localhost:3000](http://localhost:3000) in your browser to see the flower in action.
